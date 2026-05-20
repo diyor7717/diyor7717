@@ -99,11 +99,11 @@ My goal is to become a highly skilled cybersecurity specialist and contribute to
 
 <div align="center">
 
-<a href="https://t.me/USERNAME">
+<a href="https://t.me/@abdusamadovc">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/diyor7717">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
